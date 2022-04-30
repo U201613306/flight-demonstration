@@ -1,5 +1,5 @@
 # flight-demonstration
-Supporting materials related to the thesis
+We put the supporting materials related to the thesis here:
 
 
 The files specifically include flight demonstration videos, datasets (normal, rain, snow, random noise)
