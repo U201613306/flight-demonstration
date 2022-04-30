@@ -11,4 +11,4 @@ The following figure is the QGC trajectory of the production dataset：
 The following is a demo of the scene in the dataset:
 ![img_SimpleFlight__0_1648988402595662000](https://user-images.githubusercontent.com/49911054/165517961-cbb48d65-2e55-46d5-a014-f3e4fbbdd1a3.png)
 
-In the near future,  we will open source the entire scene and write a guide document for setting up the environment.
+In the near future,  we will open source the entire scene and make a docker for setting up the environment.
