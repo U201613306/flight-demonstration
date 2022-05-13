@@ -2,7 +2,7 @@
 
 ![捕获](https://user-images.githubusercontent.com/49911054/168271824-7239f39f-de18-46b4-b406-7ea9518c3976.PNG)
 
-We put the supporting materials related to the thesis here:
+We put the supporting materials related to the thesis here.
 
 
 The files specifically include flight demonstration videos, datasets (normal, rain, snow, random noise)
