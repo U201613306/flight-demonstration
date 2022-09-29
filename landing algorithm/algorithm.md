@@ -1,1 +1,1 @@
-This is the landing algorithm folder. 
+This is the landing algorithm folder.
