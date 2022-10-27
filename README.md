@@ -5,7 +5,7 @@
 We put the supporting materials related to the thesis here.
 
 
-The files specifically include flight demonstration videos, datasets (normal, rain, snow, random noise)
+The files specifically include flight demonstration videos, datasets (normal, rain, fog, random noise,horizon noise line)
 
 
 The following figure is the QGC trajectory of the production dataset：
